@@ -1,0 +1,16 @@
+.App{
+background-color:lightgray ;
+display: flex;
+align-items: center;
+flex-direction: column;
+ justify-content: center;
+}
+.App_body{
+    display:flex;
+  margin-top:35px;
+  max-width:1200px;
+
+  justify-content: space-evenly;
+
+
+}
